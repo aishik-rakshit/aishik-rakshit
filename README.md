@@ -39,10 +39,10 @@
 <h3> Kaggle Stats 
   
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/discussion/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/competition/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/dataset/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/notebook/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aishikai/discussion/dark" />
 </p>
   
 <!--
