@@ -3,6 +3,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/aishik-rakshit/count.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/aishik-rakshit.svg?style=social&label=Followers)](https://github.com/aishik-rakshit?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Aishik!;I'm+a+EEE+Pre-FInal+Year+Student+at+IIT +Guwahati;I'm+also+Machine+Learning+enthusiast+and+a+Kaggler](https://git.io/typing-svg)
 <!--
 **aishik-rakshit/aishik-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
