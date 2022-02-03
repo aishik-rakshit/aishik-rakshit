@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/aishik-rakshit/count.svg)
+
 [![GitHub followers](https://img.shields.io/github/followers/aishik-rakshit.svg?style=social&label=Followers)](https://github.com/aishik-rakshit?tab=followers)
 <!--
 **aishik-rakshit/aishik-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
