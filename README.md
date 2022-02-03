@@ -5,6 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/aishik-rakshit.svg?style=social&label=Followers)](https://github.com/aishik-rakshit?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=Hi+I'm+Aishik;I'm+a+EEE+Pre-Final+Yearite+at+IIT+Guwahati;I'm+also+a+Machine+Learning+Enthusiast+and+a+Kaggle+Competitions+Expert)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=aishik-rakshit&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 <!--
 **aishik-rakshit/aishik-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
