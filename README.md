@@ -36,7 +36,11 @@
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-
+<h3> Kaggle Stats 
+  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{aishikai}/competition/light)
+  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{aishikai}/dataset/light)
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{aishikai}/notebook/light)
+  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{aishikai}/discussion/light)
   
 <!--
 **aishik-rakshit/aishik-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
